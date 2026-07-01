@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chesapeake.appdevelopers.vip/sitemap.xml
